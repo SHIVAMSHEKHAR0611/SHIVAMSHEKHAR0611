@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHIVAMSHEKHAR0611
 - 👀 I’m interested in Data Science , AI , ML etc
-- 🌱 I’m currently working to be a Data Scientist
+- 🌱 I’m currently aiming to become a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science Projects that serves a purpose in real life
 - 📫 Contact me on email : shivamshekhar203@gmail.com
 
